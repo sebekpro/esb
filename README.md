@@ -2,3 +2,4 @@
 
 ## Dodana linijka
 Readme.md
+plugins.js
