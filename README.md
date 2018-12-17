@@ -3,3 +3,4 @@
 ## Dodana linijka
 ## Dodana kolejna linijka
 Readme.md
+gb.svg
